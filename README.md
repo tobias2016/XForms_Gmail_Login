@@ -56,7 +56,3 @@ Athletes can join leagues, get ranked and challenge other athletes to move up th
 #### Notes
 * You will need a valid Google account to log into the application
 * Parallax feature should be tested on a device - simulator will cause jitter
-
-
-#### Copyright and license
-* Code and documentation copyright 2015 Xamarin, Inc. Code released under the [MIT license](https://opensource.org/licenses/MIT).
